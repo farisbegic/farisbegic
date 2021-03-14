@@ -1,6 +1,6 @@
 ### Hi there, I'm Faris Begić. 👋
 
-- 🔭 I’m currently working on improving my programming skills.
+- 🔭 I’m always working on improving myself.
 - 🌱 I’m currently learning Web Development and Databases
 - 👯 I’m looking to collaborate on some kind of project
 - 💬 Ask me about anything
