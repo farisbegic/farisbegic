@@ -6,4 +6,3 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: fabegic@gmail.com
 
-Bye :)
