@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on some kind of project
 - 💬 Ask me about anything
 - 📫 How to reach me: fabegic@gmail.com
-- :link: [My](https://www.linkedin.com/in/begicfaris/ "LinkedIn") 
+- :link: [My LinkedIn](https://www.linkedin.com/in/begicfaris/ "LinkedIn") 
