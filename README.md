@@ -7,3 +7,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: fabegic@gmail.com
 - :link: [My LinkedIn](https://www.linkedin.com/in/begicfaris/ "LinkedIn") 
+- :link: [Portfolio](https://farisbegic.github.io/Portfolio/ "Portfolio") 
