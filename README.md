@@ -1,8 +1,8 @@
 ### Hi there, I'm Faris Begić. 👋
 
-- :closed_book: I'm a CS/IS Sophomore @ SSST.
+- :closed_book: I'm a CS/IS Junior @ SSST.
 - 🔭 I’m always working on improving myself.
-- 🌱 I’m currently learning PHP and MySQL
+- 🌱 I’m currently learning ReactJS and .NET
 - 👯 I’m looking to collaborate on some kind of project
 - 💬 Ask me about anything
 - 📫 How to reach me: fabegic@gmail.com
