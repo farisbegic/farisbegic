@@ -1,7 +1,5 @@
 ## Hello, I'm <a href="https://farisbegic.live" target="_blank">Faris Begić</a>!
 
-<p><em>Computer Science Student</em></p>
-
 <a href="https://farisbegic.live/" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://www.linkedin.com/in/begicfaris/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.instagram.com/fabegic/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
