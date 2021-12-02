@@ -1,17 +1,17 @@
 ## Hello, I'm <a href="https://farisbegic.live" target="_blank">Faris Begić</a>!
 
 <a href="https://farisbegic.live/" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://www.linkedin.com/in/begicfaris/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/fabegic/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/fabegic" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://www.linkedin.com/in/begicfaris/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+<a href="https://www.instagram.com/fabegic/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
+<a href="https://twitter.com/fabegic" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
   
 <br />
 <br />
   
 ```javascript
-const farisbegic = {
+const faris = {
     pronouns: "He" | "Him",
-    bio: "I am a passionate Computer Science student who began his journey at Visoko Gymnasium. 
+    bio: "I am a passionate Computer Science student who began his journey at Gymnasium in Visoko. 
           I am currently a Junior in Computer Science at SSST. I enjoy developing web applications.",
     technologies: {
         frontEnd: {
