@@ -1,13 +1,11 @@
-### Hi there, I'm Faris Begić. 👋
+## Hello, I'm <a href="https://farisbegic.live" target="_blank">Faris Begić</a>!
 
-- :closed_book: I'm a CS/IS Junior @ SSST.
-- 🔭 I’m always working on improving myself.
-- 🌱 I’m currently learning ReactJS and .NET
-- 👯 I’m looking to collaborate on some kind of project
-- 💬 Ask me about anything
-- 📫 How to reach me: fabegic@gmail.com
-- :link: [My LinkedIn](https://www.linkedin.com/in/begicfaris/ "LinkedIn") 
-- :link: [Portfolio](https://farisbegic.github.io/Portfolio/ "Portfolio") 
+<a href="https://twitter.com/fabegic" target="_blank"><i class="fab fa-twitter" width="22px"></i></a>
+
+
+# GitHub Statistics
 
 ![Faris Begić's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisbegic&show_icons=true&hide_border=true) <br />
+
+# Mostly used languages on GitHub
 ![Faris Begić's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisbegic&hide=html)
