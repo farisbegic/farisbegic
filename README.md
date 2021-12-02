@@ -26,8 +26,3 @@
 # GitHub Statistics
 
 ![Faris Begić's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisbegic&show_icons=true&hide_border=true&theme=bear)
-
-<br />
-  
-# Mostly used languages on GitHub
-![Faris Begić's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisbegic&hide_border=true&hide=html&theme=bear)
