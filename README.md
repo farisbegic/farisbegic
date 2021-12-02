@@ -1,7 +1,10 @@
 ## Hello, I'm <a href="https://farisbegic.live" target="_blank">Faris Begić</a>!
 
-<a href="https://twitter.com/fabegic" target="_blank"><i class="fab fa-twitter" width="22px"></i></a>
-
+<a href="https://farisbegic.live/" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
+<a href="https://www.linkedin.com/in/begicfaris/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-
+<a href="https://www.instagram.com/fabegic/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/fabegic" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 
 # GitHub Statistics
 
