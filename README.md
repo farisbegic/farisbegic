@@ -30,4 +30,4 @@
 <br />
   
 # Mostly used languages on GitHub
-![Faris Begić's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisbegic&hide=html&theme=bear)
+![Faris Begić's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisbegic&hide_border=true&hide=html&theme=bear)
