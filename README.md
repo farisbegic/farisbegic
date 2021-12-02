@@ -11,7 +11,8 @@
 ```javascript
 const farisbegic = {
     pronouns: "He" | "Him",
-    bio: "I am a passionate Computer Science student who began his journey at Visoko Gymnasium. I am currently a Junior in Computer Science at SSST. I enjoy developing web     applications.",
+    bio: "I am a passionate Computer Science student who began his journey at Visoko Gymnasium. 
+          I am currently a Junior in Computer Science at SSST. I enjoy developing web applications.",
     technologies: {
         frontEnd: {
             js: ["React.js", "Next.js"],
