@@ -10,4 +10,4 @@
 - :link: [Portfolio](https://farisbegic.github.io/Portfolio/ "Portfolio") 
 
 ![Faris Begić's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisbegic&show_icons=true&hide_border=true) <br />
-![Faris Begić's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisbegic&hide=javascript,html)
+![Faris Begić's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisbegic&hide=html)
