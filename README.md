@@ -18,9 +18,7 @@ const faris = {
             js: ["React.js", "Next.js"],
             css: ["Tailwind", "MaterialUI", "Bootstrap", "Sass"]
         },
-        backEnd: {
-            js: [".NET", "Express", "PHP"],
-        },
+        backEnd: [".NET", "Express", "PHP"],
         databases: ["Mongo", "MySQL", "Oracle"],
     },
 };
