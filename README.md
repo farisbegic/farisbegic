@@ -19,7 +19,7 @@ const faris = {
             css: ["Tailwind", "MaterialUI", "Bootstrap", "Sass"]
         },
         backEnd: [".NET", "Express", "PHP"],
-        databases: ["Mongo", "MySQL", "Oracle"],
+        databases: ["Mongo", "MySQL", "Oracle", "PostgreSQL"],
     },
 };
 ```
