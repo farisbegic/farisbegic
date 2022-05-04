@@ -15,10 +15,10 @@ const faris = {
           I am currently a Junior in Computer Science at SSST. I enjoy developing web applications.",
     technologies: {
         frontEnd: {
-            js: ["React.js", "Next.js"],
+            js: ["React.js", "Next.js", "Angular.js"],
             css: ["Tailwind", "MaterialUI", "Bootstrap", "Sass"]
         },
-        backEnd: [".NET", "Express", "PHP"],
+        backEnd: [".NET", "Express", "PHP", "Spring"],
         databases: ["Mongo", "MySQL", "Oracle", "PostgreSQL"],
     },
 };
