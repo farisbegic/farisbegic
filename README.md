@@ -12,7 +12,7 @@
 const faris = {
     pronouns: "He" | "Him",
     bio: "I am a passionate Computer Science student who began his journey at Gymnasium in Visoko. 
-          I am currently a Junior in Computer Science at SSST. I enjoy developing web applications.",
+          I am currently a Senior in Computer Science at SSST. I enjoy developing web applications.",
     technologies: {
         frontEnd: {
             js: ["React.js", "Next.js", "Angular.js"],
