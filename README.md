@@ -11,17 +11,20 @@
 ```javascript
 const faris = {
     pronouns: "He" | "Him",
-    bio: "I am a passionate Computer Science student who began his journey at Gymnasium in Visoko. 
-          I am currently a Senior in Computer Science at SSST. I enjoy developing web applications.",
+    bio: "Full-stack software engineer and founder of Perkard, a digital loyalty platform for small businesses. 
+          Passionate about building scalable web applications and solving real-world problems through technology.",
     technologies: {
         frontEnd: {
             js: ["React.js", "Next.js", "Angular.js"],
             css: ["Tailwind", "MaterialUI", "Bootstrap", "Sass"]
         },
-        backEnd: [".NET", "Express", "PHP", "Spring"],
-        databases: ["Mongo", "MySQL", "Oracle", "PostgreSQL"],
+        backEnd: ["Java Spring/WebFlux", "NodeJS/Express", "PHP"],
+        databases: ["MongoDB", "MySQL", "Oracle", "PostgreSQL"],
+        aws: ["SQS", "SNS", "S3", "ElastiCache", "Lambda", "EFS"]
     },
+    interests: ["Startup growth", "Product development", "Marketing tech solutions"],
 };
+
 ```
 <br />
  
